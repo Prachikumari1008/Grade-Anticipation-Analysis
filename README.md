@@ -14,7 +14,7 @@
 ## Installation 
  To install and run the Student Mark Predictor locally, follow these steps:
   
-   - Clone the repository: git clone https://github.com/your-username/student-mark-predictor.git
+   - Clone the repository: git clone "https://github.com/your-username/student-mark-predictor.git"
    
   - Navigate to the project directory: cd student-mark-predictor
    
@@ -24,7 +24,7 @@
   - To use the application:
      Run the Flask application: python app.py
     
-  - Open your web browser and go to http://localhost:5000.
+  - Open your web browser and go to "http://localhost:5000".
     
   - Enter the number of study hours and click "Predict" to see the predicted marks.
 
