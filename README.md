@@ -1,4 +1,4 @@
-# Grade-Anticipation-Analysis
+# Grade Anticipation Analysis
 
 ## Introduction
   The Student Mark Predictor is a Flask-based web application that utilizes a pre-trained machine learning model to predict the percentage of marks a student is likely to score based on 
